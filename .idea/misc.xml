@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/servletBasics/pom.xml" />
+        <option value="$PROJECT_DIR$/MappingSpecifications/pom.xml" />
       </list>
     </option>
   </component>
